@@ -1,0 +1,15 @@
+{
+  "name": "scrapcovid_com_fetch",
+  "version": "1.0.0",
+  "description": "WebScrap Covid com module externo node-fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "AntRob",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
